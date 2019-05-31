@@ -1,4 +1,6 @@
 
 conflict2
-today is friday
+
+
+today is karthik
 
